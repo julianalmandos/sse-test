@@ -1,0 +1,14 @@
+{
+  "name": "eventsources",
+  "version": "1.0.0",
+  "description": "First steps into event sources and server-sent events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almandos, Julian Luis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
