@@ -98,4 +98,6 @@ Some older or obstinate browsers do not have native support for Server-Sent Even
 [WebSockets vs Server-Sent Events - Telerik](https://www.telerik.com/blogs/websockets-vs-server-sent-events)  
 [Using server-sent events - MDN](https://masteringjs.io/tutorials/express/server-sent-events)  
 [Server-Sent Events with Express - MasteringJS](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)  
-[Stream Updates with Server-Sent Events](https://www.html5rocks.com/en/tutorials/eventsource/basics/#toc-reconnection-timeout)
+[Stream Updates with Server-Sent Events](https://www.html5rocks.com/en/tutorials/eventsource/basics/#toc-reconnection-timeout)  
+[Push technology - Wikipedia](https://en.wikipedia.org/wiki/Push_technology)  
+[Server-Sent Events - Wikipedia](https://en.wikipedia.org/wiki/Server-sent_events)
